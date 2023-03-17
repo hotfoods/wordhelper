@@ -2,10 +2,10 @@ package com.rawwheel.workhelper.pojo;
 
 public class Word {
 
-      private int id;
-      private String wordname;
-      private String wordchar;
-      private String mean;
+      private String word;
+      private String translation;
+
+
 
 
 }
